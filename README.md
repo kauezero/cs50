@@ -19,3 +19,4 @@ My solutions for the problem sets in [CS50 2020](https://cs50.harvard.edu/x/2020
 
   ## [Week 3 - Algorithms](/pset3)
   - [plurality](pset3/plurality) - A program that runs a plurality election.
+  - [runoff](pset3/runoff) - A program that runs a runoff election.
